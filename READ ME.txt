@@ -1,0 +1,14 @@
+Authore by Ciaran kinella
+
+- SOURCES -
+
+https://en.sfml-dev.org/forums/index.php?topic=19667.0
+http://lodev.org/cgtutor/raycasting.html
+https://github.com/tmsbrg/adventure3d
+https://www.youtube.com/watch?v=LUYxLjic0Bc&pp=ygUFI2ZzbWw%3D
+https://www.youtube.com/watch?v=OpIS1zoz6fU
+https://www.youtube.com/watch?v=fPJOigUC7yU
+http://www.permadi.com/tutorial/raycast/index.html
+https://en.sfml-dev.org/forums/index.php?topic=5659.0
+https://github.com/Hopson97/Raycast
+https://www.youtube
